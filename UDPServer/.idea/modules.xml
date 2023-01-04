@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../TCPServer/.idea/TCPServer.iml" filepath="$PROJECT_DIR$/../TCPServer/.idea/TCPServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TCPClient/.idea/TCPclient.iml" filepath="$PROJECT_DIR$/../TCPClient/.idea/TCPclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UDPClient/.idea/UDPclient.iml" filepath="$PROJECT_DIR$/../UDPClient/.idea/UDPclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UDPserver.iml" filepath="$PROJECT_DIR$/.idea/UDPserver.iml" />
+    </modules>
+  </component>
+</project>
